@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "title": "OBxAI Web Crawler",
+    "description": "Extract content from web links",
+    "tags": [
+      "web-search"
+    ]
+  }
+}

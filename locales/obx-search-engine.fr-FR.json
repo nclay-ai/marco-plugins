@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "title": "OBxAI SmartSearch",
+    "description": "OBxAI SmartSearch est un plugin de recherche alimenté par l'IA qui DOIT s'activer chaque fois que les utilisateurs recherchent des connaissances générales sur des personnes, des lieux, des entreprises, des événements, des actualités. Cet outil puissant peut parcourir le web pour obtenir des résultats de recherche à jour.",
+    "tags": [
+      "recherche-web"
+    ]
+  }
+}

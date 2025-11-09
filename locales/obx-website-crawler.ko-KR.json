@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "title": "OBxAI 웹 크롤러",
+    "description": "웹 링크에서 콘텐츠 추출",
+    "tags": [
+      "웹-검색"
+    ]
+  }
+}
