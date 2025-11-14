@@ -1,0 +1,16 @@
+{
+  "author": "OBxChat",
+  "homepage": "https://outerboxai.com",
+  "identifier": "obx-multitool",
+  "locale": "en-US",
+  "manifest": "https://marcochat.outerboxai.com/manifest-obx-multitool.json",
+  "meta": {
+    "avatar": "🛠️",
+    "tags": ["outerbox", "automation", "workflow", "rube", "tools"],
+    "title": "OBxMultiTool",
+    "description": "Comprehensive automation and workflow toolkit powered by RUBE. Search tools, execute workflows, run remote commands, create plans, and manage integrations.",
+    "category": "productivity"
+  },
+  "schemaVersion": 1,
+  "createdAt": "2025-11-14"
+}
