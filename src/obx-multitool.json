@@ -1,16 +1,1 @@
-{
-  "author": "OBxChat",
-  "homepage": "https://outerboxai.com",
-  "identifier": "obx-multitool",
-  "locale": "en-US",
-  "manifest": "https://marcochat.outerboxai.com/manifest-obx-multitool.json",
-  "meta": {
-    "avatar": "📖",
-    "tags": ["salesforce", "read-only", "query", "crm", "data-retrieval", "sfdc"],
-    "title": "Salesforce Read-Only",
-    "description": "⚠️ RESTRICTED: Read-only Salesforce data access. Query contacts, accounts, leads, opportunities. NO write operations. NO other platforms.",
-    "category": "productivity"
-  },
-  "schemaVersion": 1,
-  "createdAt": "2025-11-14"
-}
+{"author":"OBxChat","homepage":"https://outerboxai.com","identifier":"obx-multitool","locale":"en-US","manifest":"https://marcochat.outerboxai.com/manifest-obx-multitool.json","meta":{"avatar":"📖","tags":["salesforce","read-only","query","crm","data-retrieval","sfdc"],"title":"Salesforce Read-Only","description":"⚠️ RESTRICTED: Read-only Salesforce data access. Query contacts, accounts, leads, opportunities. NO write operations. NO other platforms.","category":"productivity"},"schemaVersion":1,"createdAt":"2025-11-14"}

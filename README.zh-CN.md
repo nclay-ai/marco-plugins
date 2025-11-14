@@ -77,6 +77,16 @@ Function Calling 插件列表。
 
 <!-- AWESOME PLUGINS --> 
 
+### [Salesforce Read-Only](https://lobechat.com/discover/plugin/obx-multitool)
+
+<sup>By **[@OBxChat](https://outerboxai.com)** on **2025-11-14**</sup>
+
+RESTRICTED: Read-only Salesforce data access. Query contacts, accounts, leads, opportunities. NO write operations. NO other platforms.
+
+`salesforce` `read-only` `query` `crm` `data-retrieval` `sfdc`
+
+---
+
 ### [OuterBox Ahrefs 代理](https://lobechat.com/discover/plugin/obx-ahrefs-agent)
 
 <sup>By **[@OBxChat](https://outerboxai.com)** on **2025-06-09**</sup>
