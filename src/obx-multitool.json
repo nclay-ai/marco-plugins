@@ -5,10 +5,10 @@
   "locale": "en-US",
   "manifest": "https://marcochat.outerboxai.com/manifest-obx-multitool.json",
   "meta": {
-    "avatar": "🛠️",
-    "tags": ["outerbox", "automation", "workflow", "rube", "tools"],
-    "title": "OBxMultiTool",
-    "description": "Comprehensive automation and workflow toolkit powered by RUBE. Search tools, execute workflows, run remote commands, create plans, and manage integrations.",
+    "avatar": "📖",
+    "tags": ["salesforce", "read-only", "query", "crm", "data-retrieval", "sfdc"],
+    "title": "Salesforce Read-Only",
+    "description": "⚠️ RESTRICTED: Read-only Salesforce data access. Query contacts, accounts, leads, opportunities. NO write operations. NO other platforms.",
     "category": "productivity"
   },
   "schemaVersion": 1,
